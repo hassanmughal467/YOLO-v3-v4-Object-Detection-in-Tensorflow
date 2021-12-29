@@ -1,0 +1,8 @@
+1-first change path to current working dir
+
+2-install rquirements.txt
+
+3-open main.py file put path of image or video on on this variable
+if you want to demonstrate on live video so put zero intead in string
+
+4- your output image or video will be generated in run/detect folder there will be exp folder which contain generated output or video. 
